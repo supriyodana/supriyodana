@@ -22,7 +22,7 @@ jobs:
       - name: Generate pacman.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }} 
+          github_user_name: "supriyodana"
 
       - name: Publish pacman to output
         uses: crazy-max/ghaction-github-pages@v4

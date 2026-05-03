@@ -6,9 +6,8 @@
   <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supriyodana/supriyodana/output/pacman-contribution-graph-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/supriyodana/supriyodana/output/pacman-contribution-graph.svg" />
-      
-      <img src="https://raw.githubusercontent.com/supriyodana/supriyodana/output/pacman-contribution-graph.svg" alt="Pacmancontributionanimation" width="100%" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/supriyodana/supriyodana/output/pacman-contribution-graph.svg" /> 
+      <img src="https://raw.githubusercontent.com/supriyodana/supriyodana/output/pacman-contribution-graph.svg" alt="Pacmancontributionanimation" />
     </picture>
     <br/>
     <sub><i></i></sub>
